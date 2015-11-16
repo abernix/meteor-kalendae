@@ -1,0 +1,3 @@
+[submodule "lib/kalendae"]
+	path = lib/kalendae
+	url = git@github.com:ChiperSoft/Kalendae.git
